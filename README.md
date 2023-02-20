@@ -6,4 +6,4 @@ A simple antivirus coded in python capable of scanning selected files and deleti
 
 Thank You! :)
 
-Screeenshots 
+## Screeenshots 
