@@ -7,13 +7,13 @@ A simple antivirus coded in python capable of scanning  and deleting files that 
 
 # Malware 👾
 
-## Malware is malicious software that was intentionally developed to infiltrate or damage a computer system without consent of the owner. This includes, among others, viruses, worms, and Trojan horses.
+## 
+Malware is malicious software that was intentionally developed to infiltrate or damage a computer system without consent of the owner. This includes, among others, viruses, worms, and Trojan horses.
 
-Shorthand for malicious software, malware typically consists of code developed by cyberattackers, designed to cause extensive damage to data and systems or to gain unauthorized access to a network.
-
+##
 Malware detection and Removal 🕵️
-Malware detection refers to the process of detecting the presence of malware on a host system or of distinguishing whether a specific program is malicious or benign.
+Malware detection refers to the process of detecting the presence of malware on a host system or of distinguishing whether a specific program is malicious or not.
 
-Thank You! :)
+
 
 ## Screeenshots 
