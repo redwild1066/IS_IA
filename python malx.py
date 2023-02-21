@@ -139,9 +139,7 @@ def displayResults_CLEAN(self, file):
     self.DeleteFileButton.clicked.connect(lambda: removeFile(file))
     # return button
     self.ReturnToHomeTabButton.clicked.connect(lambda: self.Tabs.setCurrentIndex(0))
-
-
-def scan(file, self, MainWindow):
+    def scan(file, self, MainWindow):
     try:
 
     
@@ -411,6 +409,9 @@ class Ui_MainWindow(object):
         self.HomeTabButton.setStyleSheet("background-color: qradialgradient(spread:pad, cx:0.5, cy:0.5, radius:0.5, fx:0.1468, fy:0.1468, stop:1 rgba(0, 0, 0, 0));\n"
 "image: url(:/res/SideBar/home.svg);\n"
 "")
+
+
+
         self.HomeTabButton.setText("")
         self.HomeTabButton.setFlat(True)
         self.HomeTabButton.setObjectName("HomeTabButton")
