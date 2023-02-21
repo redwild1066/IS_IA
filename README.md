@@ -19,7 +19,7 @@ Code Output :
 ![168495755-24a6d712-7a57-4a06-a7c4-19323302d0d3](https://user-images.githubusercontent.com/74112721/220404373-0eebe1d1-2ec5-4379-9172-1bfc486688d7.png)
 
 ![home](https://user-images.githubusercontent.com/74112721/220404541-5bb41460-1090-43dc-a499-4b29a3db7fa7.png)
-![home](https://user-images.githubusercontent.com/74112721/220404713-32435962-e215-4177-af6a-a711070e471c.png)
+
 ![168495756-ced646cd-9880-422f-b474-221e3448cfcd](https://user-images.githubusercontent.com/74112721/220404746-ceebb7ac-26ea-4c24-b237-1c9d8e1348b5.png)
 
 
