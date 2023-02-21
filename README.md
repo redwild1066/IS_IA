@@ -17,7 +17,7 @@ A simple antivirus coded in python capable of scanning  and deleting files that 
 
 ## Screeenshots 
 
-![image](https://user-images.githubusercontent.com/74112721/220351254-dd9bef66-4068-4117-8799-d52621f7cd1a.png)
+
 
 ![image](https://user-images.githubusercontent.com/74112721/220351311-7299eaa8-cad8-4248-9163-22eb08c32de1.png)
 
@@ -26,3 +26,4 @@ A simple antivirus coded in python capable of scanning  and deleting files that 
 
 ![image](https://user-images.githubusercontent.com/74112721/220351419-ffdea2d7-17c3-4f0c-b82f-3c146f54f2d1.png)
 
+![image](https://user-images.githubusercontent.com/74112721/220351254-dd9bef66-4068-4117-8799-d52621f7cd1a.png)
