@@ -12,7 +12,7 @@ Malware detection refers to the process of detecting the presence of malware on 
 ![image](https://user-images.githubusercontent.com/74112721/220119428-d62f23e7-94ac-4912-a5e9-4a27ed18f050.png)
 
 
-A simple antivirus coded in python capable of scanning  and deleting files that it detects as infected.
+A simple antivirus coded in python capable of scanning  and deleting files that it detects as infected.<p>
 Providing Real time Threat protection . 
 
 ### Code Output :
